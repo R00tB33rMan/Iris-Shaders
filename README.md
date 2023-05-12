@@ -79,4 +79,4 @@ Dependencies may not be under an applicable license: See the [Incompatible Depen
 
 You are not allowed to redistribute Iris commerically or behind a paywall, unless you get a commercial license for GLSL Transformer. See above for more information.
 
-Though it's not legally required, I'd appreciate it if you could ask before hosting your own public downloads for compiled versions of Iris. Though if you want to add the mod to a site like MCBBS, that's fine, no need to ask me.
+Though it's not legally required, I would appreciate it if you could ask before hosting your own public downloads for compiled versions of Iris. Though if you want to add the mod to a site like MCBBS, that's fine, no need to ask me.
